@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="36" viewBox="0 0 129 36">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.519" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fe8556"/>
+      <stop offset="1" stop-color="#fedf75"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.966" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#63a563"/>
+      <stop offset="1" stop-color="#8cd98c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.519" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7dd87d"/>
+      <stop offset="1" stop-color="#7dd87d"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2125" data-name="Rectangle 2125" width="33" height="33" rx="5" transform="translate(0.231 0.231)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_18949" data-name="Group 18949" transform="translate(-112 -50)">
+    <text id="FoodEx" transform="translate(156 77)" fill="#130849" font-size="25" font-family="Gilroy-Bold, Gilroy ☞" font-weight="700"><tspan x="0" y="0">Food</tspan><tspan y="0" fill="#7dd87d">Ex</tspan></text>
+    <g id="Group_18948" data-name="Group 18948" transform="translate(17471 2821)">
+      <rect id="Rectangle_1878" data-name="Rectangle 1878" width="36" height="36" rx="5.5" transform="translate(-17359 -2771)" fill="url(#linear-gradient-2)"/>
+      <rect id="Rectangle_1877" data-name="Rectangle 1877" width="33" height="33" rx="5" transform="translate(-17357.5 -2769.5)" fill="url(#linear-gradient-3)"/>
+      <g id="Mask_Group_18" data-name="Mask Group 18" transform="translate(-17357.73 -2769.731)" clip-path="url(#clip-path)">
+        <g id="Group_18945" data-name="Group 18945" transform="translate(7.742 3.897)">
+          <path id="Path_20787" data-name="Path 20787" d="M305.531,586.648l-.508,16.859-18.308.395-8.126-7.38,2.352-5.84,1.4-4.034-3.915-2.4-1.1-1.7-1.755-2.559h.768l3.493.306,3.233,1.56-.493-3.275,1.372-2.5,1.077-1.279.8-1.145,5.05,4.739,1.99-.523.891-2.76,9.47,8.737Z" transform="translate(-274.595 -573.651)" fill="#579e57" fill-rule="evenodd" opacity="0.55"/>
+          <path id="Path_20788" data-name="Path 20788" d="M281.371,595.337l.622-2.175a.532.532,0,0,1,.507-.416l1.8.005a2.832,2.832,0,0,0,2.294-2.272h-3.263c-.341,0-.543-.1-.457-.4l.252-.886c.106-.371.36-.475.862-.5l.5,0c5.821.005,9.459-7.967,9.106-13.585-.36,2.113-2.98,3.448-4.783,4.208-1.568.662-3.048,1.161-4,2.348a4.212,4.212,0,0,0-.528,4.389,11.119,11.119,0,0,0,5.288-3.464,21.646,21.646,0,0,0,1.515-1.7c.481-.617.945-1.325,1.177-1.679s.232-.353.148-.131a9.906,9.906,0,0,1-.506,1.139,14.583,14.583,0,0,1-.929,1.462,16.912,16.912,0,0,1-1.12,1.446c-1.406,1.625-3.593,3.449-5.821,3.452l-.979,0c-1.762,0-1.956.615-2.286,1.769l-2.338,8.18h.052c.411,0,.821,0,1.231.005.6,0,1.289.1,1.658-1.19Zm4.291-21.686.076.2a6.626,6.626,0,0,1,.33,1.141,7.4,7.4,0,0,1,.1,1.862,5.821,5.821,0,0,1-.45,1.843,7.378,7.378,0,0,1-.947,1.592,11.415,11.415,0,0,1-.921,1.027c-.189.188-.158.185-.194-.014-.565-3.135.52-4.464,1.256-5.962a7.578,7.578,0,0,0-2.046,5.928c.022.28.019.442.032.523s.012.081-.042.022a1.771,1.771,0,0,1-.312-.506,4.886,4.886,0,0,1-.407-1.418,5.007,5.007,0,0,1,.13-1.679,5.272,5.272,0,0,1,.589-1.486,9.3,9.3,0,0,1,1.007-1.363,11.9,11.9,0,0,1,.965-.983c.294-.271.564-.5.831-.726Zm-11.227,5.607c.851,4.622,6.744,6.56,8.395,6.7-.972-2.455-3.5-4.641-6.741-5.821a10.494,10.494,0,0,1,7.292,5.513c-.183-.642-.363-1.276-.592-1.9a5.781,5.781,0,0,0-3.449-3.621,7.181,7.181,0,0,0-1.508-.536,12.113,12.113,0,0,0-1.772-.306,13.688,13.688,0,0,0-1.626-.026Z" transform="translate(-274.436 -573.651)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
